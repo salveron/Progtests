@@ -1,2 +1,2 @@
 # Progtests
-Here I store my small programs that I wrote to train myself.
+Here I store some of my small programs that I wrote to train myself.
